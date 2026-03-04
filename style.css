@@ -1,0 +1,28 @@
+body{
+    font-family: Aldhabi;
+    text-align: center;
+    background-color: rgb(243, 245, 140);
+}
+
+h1{
+    font-size: 80px;
+    color: #2bbec2;
+    margin-bottom: 10px;   /* reduce space below */
+}
+
+h2{
+    font-size: 70px;
+    color: #6bc6c9;
+    margin-top: 0px;       /* remove top gap */
+}
+
+p{
+    margin-top: 5px;
+}
+
+button{
+    padding:10px;
+    background-color: rgb(247, 221, 105);
+    color:white;
+    border:none;
+}
